@@ -1,1 +1,1 @@
-se necesita instalar las librerias incluidas en el archivo requeriment
+se necesita instalar las librerias incluidas en el archivo requirements.txt
